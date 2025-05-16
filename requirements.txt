@@ -1,0 +1,8 @@
+spacy
+PyMuPDF
+nltk
+pandas
+numpy
+regex
+fuzzywuzzy
+python-Levenshtein
