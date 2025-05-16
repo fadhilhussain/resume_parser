@@ -1,0 +1,501 @@
+skill,education
+python,bachelor of science in computer science
+java,bachelor of science in physics
+c++,bachelor of science in mathematics
+c#,bachelor of arts in economics
+javascript,bachelor of arts in history
+typescript,bachelor of engineering in electrical engineering
+react,bachelor of engineering in mechanical engineering
+angular,bachelor of engineering in civil engineering
+node.js,bachelor of technology in information technology
+express,bachelor of technology in electronics
+django,bachelor of business administration
+flask,bachelor of commerce
+html,bachelor of computer applications
+css,master of science in data science
+sql,master of science in computer science
+mysql,master of science in artificial intelligence
+postgresql,master of arts in sociology
+mongodb,master of arts in political science
+machine learning,master of engineering in electronics
+deep learning,master of engineering in robotics
+nlp,master of technology in machine learning
+computer vision,master of technology in software engineering
+data analysis,master of business administration
+data visualization,master of commerce
+pandas,master of computer applications
+numpy,phd in machine learning
+scikit-learn,phd in computer vision
+tensorflow,phd in electrical engineering
+keras,phd in mechanical engineering
+power bi,phd in data science
+tableau,high school diploma
+excel,associate degree in computer science
+git,postgraduate diploma in business analytics
+docker,diploma in computer engineering
+kubernetes,diploma in software engineering
+aws,diploma in electronics and communication
+azure,certificate in full stack development
+gcp,certificate in data analytics
+linux,certificate in cloud computing
+bash,certificate in cybersecurity
+spark,certificate in devops
+hadoop,certificate in digital marketing
+airflow,certificate in graphic design
+jira,bootcamp in machine learning
+agile,bootcamp in web development
+scrum,online course in python programming
+fastapi,online course in SQL
+matplotlib,training in AWS cloud
+seaborn,training in agile project management
+opencv,b.tech in computer science
+pytorch,b.tech in artificial intelligence
+rest api,b.tech in robotics
+graphql,b.e in electronics
+elasticsearch,b.e in civil
+bigquery,m.tech in data science
+looker,m.tech in cybersecurity
+redshift,m.e in mechanical
+d3.js,b.sc in chemistry
+firebase,b.sc in zoology
+supabase,m.sc in botany
+flutter,m.sc in microbiology
+swift,mba in human resources
+kotlin,mba in operations
+rust,mba in international business
+go,mba in entrepreneurship
+perl,b.arch in architecture
+r,m.arch in urban design
+stata,b.des in graphic design
+sas,m.des in animation
+snowflake,pgdm in finance
+clickhouse,pgdm in marketing
+ci/cd,b.pharma
+jenkins,m.pharma
+ansible,b.ed
+terraform,m.ed
+prometheus,b.lit
+grafana,m.lit
+splunk,bfa in painting
+new relic,mfa in sculpture
+vscode,diploma in game design
+intellij,certificate in UI/UX design
+eclipse,bachelor of laws
+netbeans,llm
+vim,bachelor of library science
+notepad++,master of library science
+json,bachelor of engineering in electrical engineering
+yaml,bachelor of commerce
+xml,certificate in cloud computing
+http,training in AWS cloud
+https,master of engineering in electronics
+tcp/ip,m.arch in urban design
+udp,master of technology in machine learning
+websockets,m.des in animation
+oauth2,certificate in devops
+jwt,b.tech in artificial intelligence
+ssl,bachelor of arts in history
+tls,b.tech in artificial intelligence
+sso,master of commerce
+data mining,llm
+feature engineering,certificate in cloud computing
+data cleaning,master of engineering in robotics
+data wrangling,phd in mechanical engineering
+business analysis,diploma in electronics and communication
+data governance,bachelor of technology in information technology
+data modeling,m.sc in botany
+crm,phd in data science
+erp,llm
+sap,b.e in civil
+salesforce,master of engineering in electronics
+zendesk,b.tech in robotics
+confluence,b.ed
+notion,certificate in cloud computing
+figma,b.lit
+sketch,b.des in graphic design
+adobe xd,b.des in graphic design
+photoshop,bootcamp in web development
+illustrator,master of commerce
+premiere pro,b.e in civil
+after effects,llm
+unity,certificate in full stack development
+unreal engine,bachelor of technology in information technology
+blockchain,m.arch in urban design
+solidity,b.sc in zoology
+web3,bootcamp in machine learning
+metamask,master of engineering in electronics
+truffle,bachelor of technology in information technology
+ganache,b.arch in architecture
+hardhat,certificate in full stack development
+chainlink,bachelor of business administration
+defi,master of library science
+nft,bootcamp in web development
+cryptography,b.tech in robotics
+penetration testing,phd in data science
+cybersecurity,bachelor of science in mathematics
+network security,master of engineering in electronics
+firewalls,bachelor of technology in electronics
+endpoint protection,bachelor of science in computer science
+identity management,bachelor of engineering in electrical engineering
+SIEM,associate degree in computer science
+SOAR,b.arch in architecture
+zabbix,master of commerce
+nagios,m.des in animation
+logstash,b.sc in chemistry
+kibana,b.arch in architecture
+redis,master of engineering in robotics
+cassandra,b.arch in architecture
+couchdb,phd in data science
+influxdb,bachelor of engineering in electrical engineering
+timescaledb,master of science in data science
+rabbitmq,master of technology in machine learning
+kafka,m.tech in data science
+zeroMQ,b.lit
+mqtt,certificate in graphic design
+API testing,bca
+postman,m.tech in cybersecurity
+swagger,master of science in data science
+testng,b.tech in artificial intelligence
+junit,mca
+mocha,bachelor of library science
+chai,pgdm in finance
+selenium,bachelor of science in mathematics
+cypress,bachelor of technology in electronics
+playwright,m.arch in urban design
+jest,b.arch in architecture
+jasmine,m.tech in cybersecurity
+robot framework,m.sc in microbiology
+load testing,b.arch in architecture
+jmeter,bachelor of engineering in electrical engineering
+gatling,certificate in full stack development
+locust,bachelor of technology in electronics
+a/b testing,bachelor of science in mathematics
+growth hacking,b.sc in zoology
+seo,bachelor of engineering in electrical engineering
+sem,b.tec
+email marketing,master of engineering in robotics
+content marketing,diploma in electronics and communication
+affiliate marketing,certificate in cloud computing
+google analytics,m.pharma
+mixpanel,master of arts in political science
+segment,master of science in data science
+hotjar,master of engineering in electronics
+clevertap,llm
+angular,m.ed
+data modeling,bachelor of technology in information technology
+jmeter,m.pharma
+network security,diploma in electronics and communication
+feature engineering,b.ed
+gatling,b.lit
+feature engineering,bachelor of science in mathematics
+yaml,pgdm in finance
+redshift,bachelor of science in mathematics
+gatling,m.tech in data science
+mocha,m.tech in data science
+firewalls,master of science in data science
+identity management,master of engineering in electronics
+jmeter,b.lit
+network security,bachelor of technology in information technology
+jira,b.sc in chemistry
+flask,b.ed
+locust,bachelor of arts in economics
+aws,b.tech in artificial intelligence
+network security,b.e in electronics
+segment,bachelor of commerce
+seaborn,llm
+python,b.sc in chemistry
+timescaledb,b.lit
+css,master of engineering in electronics
+tensorflow,bachelor of technology in electronics
+premiere pro,master of commerce
+influxdb,b.sc in chemistry
+fastapi,diploma in game design
+data cleaning,bachelor of engineering in electrical engineering
+identity management,certificate in full stack development
+figma,master of arts in sociology
+seaborn,certificate in cloud computing
+c++,certificate in digital marketing
+jenkins,certificate in full stack development
+snowflake,b.lit
+confluence,b.des in graphic design
+mocha,bachelor of computer application
+photoshop,master of science in artificial intelligence
+unreal engine,bachelor of technology in electronics
+sql,b.arch in architecture
+udp,mba in international business
+network security,pgdm in marketing
+seo,certificate in cloud computing
+sso,master of computer application
+css,m.pharma
+affiliate marketing,bachelor of technology in information technology
+bash,bachelor of technology in information technology
+web3,b.lit
+mocha,diploma in electronics and communication
+data cleaning,bachelor of science in computer science
+nft,master of commerce
+crm,bachelor of technology in electronics
+azure,bachelor of science in physics
+junit,b.lit
+node.js,b.tech in artificial intelligence
+photoshop,m.pharma
+confluence,bachelor of technology in electronics
+postgresql,diploma in electronics and communication
+spark,phd in electrical engineering
+express,certificate in graphic design
+linux,bachelor of science in computer science
+scikit-learn,master of arts in sociology
+SIEM,master of engineering in robotics
+oauth2,diploma in software engineering
+mocha,bachelor of science in mathematics
+email marketing,bachelor of science in physics
+locust,bachelor of arts in economics
+jira,pgdm in marketing
+express,bachelor of technology in electronics
+a/b testing,b.tech in computer science
+nlp,phd in data science
+zeroMQ,bachelor of science in computer science
+hardhat,master of engineering in robotics
+xml,llm
+tls,bachelor of arts in economics
+scrum,master of technology in machine learning
+mocha,b.sc in zoology
+salesforce,certificate in cloud computing
+notepad++,bachelor of arts in economics
+couchdb,m.ed
+tableau,m.tech in cybersecurity
+feature engineering,b.pharma
+terraform,bachelor of engineering in electrical engineering
+kotlin,pgdm in finance
+snowflake,bachelor of business administration
+c++,b.sc in chemistry
+flask,phd in computer vision
+unreal engine,b.e in civil
+crm,m.des in animation
+mocha,bachelor of arts in economics
+jmeter,bachelor of commerce
+express,certificate in cybersecurity
+locust,master of computer applications
+mocha,b.arch in architecture
+jasmine,master of commerce
+cybersecurity,phd in mechanical engineering
+ansible,bachelor of technology in electronics
+data wrangling,m.des in animation
+junit,bachelor of technology in electronics
+snowflake,master of science in data science
+kubernetes,master of science in data science
+node.js,master of science in computer science
+jira,b.e in civil
+feature engineering,master of engineering in electronics
+a/b testing,diploma in electronics and communication
+intellij,m.tech in cybersecurity
+identity management,master of arts in sociology
+influxdb,certificate in cloud computing
+locust,m.e in mechanical
+javascript,m.tech in cybersecurity
+seo,m.tech in cybersecurity
+locust,certificate in cloud computing
+SIEM,bachelor of science in computer science
+pandas,b.des in graphic design
+grafana,b.tech in robotics
+adobe xd,certificate in cloud computing
+API testing,master of computer applications
+c++,mba in international business
+data wrangling,b.arch in architecture
+cryptography,pgdm in finance
+agile,bachelor of engineering in electrical engineering
+defi,llm
+mongodb,bachelor of engineering in electrical engineering
+adobe xd,bachelor of technology in information technology
+flask,m.tech in cybersecurity
+https,bachelor of commerce
+nlp,master of commerce
+crm,master of arts in sociology
+data modeling,b.sc in zoology
+timescaledb,b.lit
+mocha,b.sc in zoology
+couchdb,bootcamp in web development
+c++,b.tech in computer science
+terraform,bachelor of science in mathematics
+numpy,b.ed
+solidity,master of technology in software engineering
+flutter,certificate in cloud computing
+mocha,training in AWS cloud
+mysql,b.tech in artificial intelligence
+nlp,bachelor of arts in economics
+defi,b.sc in zoology
+c#,m.arch in urban design
+r,m.pharma
+clickhouse,b.sc in chemistry
+identity management,master of science in data science
+ganache,phd in data science
+clickhouse,m.pharma
+flutter,b.arch in architecture
+a/b testing,b.des in graphic design
+express,master of science in data science
+zeroMQ,bachelor of engineering in electrical engineering
+jenkins,diploma in electronics and communication
+mongodb,training in AWS cloud
+jmeter,b.lit
+vim,certificate in cloud computing
+jenkins,master of technology in machine learning
+chainlink,master of engineering in robotics
+mocha,b.sc in chemistry
+web3,b.tech in artificial intelligence
+jmeter,b.lit
+snowflake,b.e in electronics
+scikit-learn,bachelor of technology in electronics
+chainlink,certificate in cloud computing
+timescaledb,b.e in civil
+testng,pgdm in finance
+metamask,bachelor of science in mathematics
+network security,bachelor of technology in information technology
+locust,bachelor of science in mathematics
+zendesk,b.sc in zoology
+new relic,phd in data science
+spark,bachelor of science in computer science
+zendesk,b.e in electronics
+testng,bachelor of business administration
+new relic,b.sc in zoology
+web3,certificate in devops
+docker,diploma in software engineering
+data wrangling,certificate in cloud computing
+mqtt,bachelor of engineering in electrical engineering
+postgresql,certificate in cloud computing
+identity management,m.tech in cybersecurity
+eda,b.lit
+postgresql,master of commerce
+nagios,certificate in full stack development
+testng,certificate in cloud computing
+github,master of technology in machine learning
+oauth2,b.ed
+tls,bachelor of technology in electronics
+postgresql,master of arts in sociology
+seo,certificate in graphic design
+mocha,master of arts in sociology
+json,bachelor of engineering in electrical engineering
+affiliate marketing,b.e in electronics
+sql,b.arch in architecture
+eclipse,master of computer applications
+defi,master of library science
+clickhouse,associate degree in computer science
+grafana,master of commerce
+timescaledb,master of commerce
+rust,m.pharma
+chainlink,m.pharma
+data modeling,llm
+firebase,training in AWS cloud
+snowflake,bachelor of science in computer science
+junit,bachelor of business administration
+timescaledb,bootcamp in web development
+scrum,b.lit
+tls,b.sc in zoology
+logstash,b.tech in artificial intelligence
+python,b.sc in zoology
+feature engineering,master of science in artificial intelligence
+feature engineering,training in AWS cloud
+git,bachelor of science in computer science
+sql,b.e in electronics
+hadoop,diploma in software engineering
+keras,master of commerce
+truffle,b.lit
+redis,b.lit
+angular,certificate in digital marketing
+oauth2,bachelor of science in computer science
+new relic,bachelor of technology in electronics
+jenkins,certificate in cloud computing
+jira,m.arch in urban design
+salesforce,bachelor of technology in electronics
+chai,bachelor of computer applications
+xml,master of arts in political science
+azure,associate degree in computer science
+solidity,master of arts in political science
+nlp,b.des in graphic design
+redshift,bachelor of technology in electronics
+affiliate marketing,bachelor of arts in economics
+business analysis,b.sc in chemistry
+mqtt,bachelor of business administration
+agile,master of engineering in electronics
+influxdb,b.des in graphic design
+agile,master of science in computer science
+timescaledb,certificate in cloud computing
+couchdb,bachelor of business administration
+hadoop,bachelor of science in computer science
+grafana,certificate in cloud computing
+timescaledb,master of arts in sociology
+endpoint protection,certificate in cloud computing
+new relic,b.ed
+email marketing,master of commerce
+jenkins,master of engineering in robotics
+xml,certificate in full stack development
+node.js,m.ed
+jmeter,master of commerce
+ansible,master of science in data science
+prometheus,b.tech in artificial intelligence
+email marketing,master of science in data science
+chainlink,bachelor of technology in electronics
+power bi,bachelor of science in mathematics
+seo,b.sc in zoology
+flask,b.sc in chemistry
+confluence,bachelor of technology in electronics
+feature engineering,b.e in electronics
+unreal engine,b.arch in architecture
+web3,diploma in electronics and communication
+streamlit,bachelor of science in mathematics
+load testing,llm
+photoshop,certificate in cloud computing
+influxdb,certificate in cloud computing
+affiliate marketing,bootcamp in web development
+supabase,b.tech in artificial intelligence
+express,associate degree in computer science
+nlp,bachelor of business administration
+load testing,master of commerce
+jmeter,m.ed
+intellij,bachelor of technology in electronics
+postgresql,b.sc in chemistry
+redshift,b.ed
+gcp,b.sc in zoology
+hardhat,llm
+gatling,certificate in cloud computing
+ansible,b.sc in zoology
+photoshop,b.tech in artificial intelligence
+swagger,b.arch in architecture
+oauth2,pgdm in finance
+python,master of engineering in electronics
+docker,b.sc in zoology
+identity management,master of engineering in robotics
+locust,master of engineering in robotics
+mongodb,m.pharma
+timescaledb,master of arts in political science
+influxdb,b.lit
+email marketing,b.arch in architecture
+graphql,bachelor of technology in information technology
+gatling,master of engineering in electronics
+agile,b.ed
+linux,b.arch in architecture
+flask,bootcamp in web development
+email marketing,certificate in full stack development
+hardhat,pgdm in finance
+google analytics,m.des in animation
+a/b testing,b.e in electronics
+SOAR,bachelor of laws
+yaml,b.sc in zoology
+data analysis,bachelor of business administration
+network security,master of commerce
+data wrangling,training in AWS cloud
+endpoint protection,master of science in computer science
+express,diploma in game design
+snowflake,certificate in digital marketing
+express,master of computer applications
+sap,m.des in animation
+data analysis,certificate in cloud computing
+seo,b.tech in artificial intelligence
+snowflake,training in AWS cloud
+graphql,pgdm in marketing
+tensorflow,m.ed
+express,b.sc in zoology
+feature engineering,diploma in electronics and communication
+flutter,bachelor of science in computer science
+netbeans,master of engineering in electronics
+testng,b.lit
+react,certificate in cloud computing
+a/b testing,certificate in graphic design
